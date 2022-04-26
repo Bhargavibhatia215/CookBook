@@ -13,19 +13,26 @@ You can checkout my website on laptop from here
 ## Screenshots
 
 ### Homepage
-![Page1](https://user-images.githubusercontent.com/68382993/152633886-26346d92-92f6-4f39-b697-d10a4e281f2f.PNG)
-### Add a new recipe
-![Page2](https://user-images.githubusercontent.com/68382993/152633889-1baf0fb2-eded-4ab9-b842-bdc0590f851c.PNG)
-### View list of bookmarks - Initially
-![page2_join](https://user-images.githubusercontent.com/68382993/152633892-d383ff76-5440-4de7-b086-09291fd4f9ff.PNG)
-### Enter ingredient name or recipe name 
-![Page3](https://user-images.githubusercontent.com/68382993/152633897-fd85f7a5-45ec-4983-9d1f-5f539f9767b6.PNG)
-### Available list of corresponding recipes will be displayed
-![page4](https://user-images.githubusercontent.com/68382993/152633900-343aa16e-219b-41b7-abc5-90fdcb65f3a7.PNG)
-### Selected Recipe
-![page5](https://user-images.githubusercontent.com/68382993/152633903-48ec4e3f-92c1-4a25-b0cc-3fad5aed8095.PNG)
-### List of bookmark after adding the bookmark
+![unnamed](https://user-images.githubusercontent.com/68382993/165244155-5a2c044b-3ba1-4465-a6b6-09ed4bed81b1.png)
 
+### Add a new recipe
+![unnamed](https://user-images.githubusercontent.com/68382993/165244256-f9490c24-087e-4e02-b5e4-a9da90f9a668.png)
+
+### View list of bookmarks - Initially
+![unnamed](https://user-images.githubusercontent.com/68382993/165244318-a9efc805-7769-4590-9403-7c10d9b2684d.png)
+
+### Enter ingredient name or recipe name
+![unnamed](https://user-images.githubusercontent.com/68382993/165244392-548eab10-8791-4501-a298-90dd2b46ab2e.png)
+ 
+### Available list of corresponding recipes will be displayed
+![unnamed](https://user-images.githubusercontent.com/68382993/165244451-2df79c92-5766-45fd-ae2c-896eac65ec09.png)
+
+### Selected Recipe
+![unnamed](https://user-images.githubusercontent.com/68382993/165244518-a0885893-8825-440d-88bb-1f23dafaffa2.png)
+![unnamed](https://user-images.githubusercontent.com/68382993/165244555-151abc61-3788-443a-b64f-5ecc764c96d0.png)
+
+### List of bookmark after adding the bookmark
+![unnamed](https://user-images.githubusercontent.com/68382993/165244590-b09ef054-f4a8-4e8b-9497-e0dd2162cd31.png)
 
 ## Authors
 
